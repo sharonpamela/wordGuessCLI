@@ -1,0 +1,25 @@
+{
+  "name": "wordGuessCLI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharonpamela/wordGuessCLI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharonpamela/wordGuessCLI/issues"
+  },
+  "homepage": "https://github.com/sharonpamela/wordGuessCLI#readme",
+  "dependencies": {
+    "inquire": "^0.4.8",
+    "inquirer": "^6.2.2"
+  },
+  "devDependencies": {}
+}
