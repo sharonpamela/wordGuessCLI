@@ -102,7 +102,7 @@ function promptUser() {
       // if the user ran out of allowed guesses, game over and reset the game
       if (missedCount <= 0) {
         console.log("-------------------------------");
-        console.log("Ran out of guesses!");
+        console.log("Ran out of alloud guesses!");
         console.log(`The answer was ${currentWord.word}.`)
         console.log(`Total wins: ${wins}`);
         console.log("-------------------------------");
